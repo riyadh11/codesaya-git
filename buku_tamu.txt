@@ -53,5 +53,6 @@ Pesan: Semoga kedepannya makin maju dan sukses, tambahkan lebih banyak fitur2 gi
 Entry: 6
 CodeSaya: codecreativ
 Github: codecreativ
+Nama: Ronald
 Website: http://garisbumi.com
 Pesan: lebih cepat mudengnya dengan mengikuti petunjuk ajarnya.
