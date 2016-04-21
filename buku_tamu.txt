@@ -56,3 +56,10 @@ Github: codecreativ
 Nama: Ronald
 Website: http://garisbumi.com
 Pesan: lebih cepat mudengnya dengan mengikuti petunjuk ajarnya.
+
+Entry: 7
+CodeSaya: Riyadh11
+Github: riyadhh11
+Nama: Ahmad Riyadh Al Faathin
+Website: www.faathin.com
+Pesan: Update tentang Java, C++, dan pembuatan API dong.
